@@ -11,6 +11,10 @@ header {
   padding: 15px;
 }
 
+h2 {
+    color: black;
+}
+
 nav {
   background-color: #004d00;
   color: #ffffff;
